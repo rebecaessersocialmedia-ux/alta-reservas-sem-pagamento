@@ -1,0 +1,5 @@
+{
+  "name": "alta-menu-experiencia",
+  "private": true,
+  "engines": { "node": ">=18" }
+}
